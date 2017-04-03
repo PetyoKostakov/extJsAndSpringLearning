@@ -22,3 +22,20 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+### Ext JS ###
+
+src/main/webapp/.architect
+src/main/webapp/.sencha
+src/main/webapp/bootstrap.css
+src/main/webapp/bootstrap.js
+src/main/webapp/bootstrap.json
+src/main/webapp/bootstrap.jsonp
+src/main/webapp/build/
+src/main/webapp/classic.json
+src/main/webapp/classic.jsonp
+src/main/webapp/ext/
+src/main/webapp/sass/
+src/main/webapp/modern.json
+src/main/webapp/modern.jsonp
+src/main/webapp/resources/sass/.sass-cache/
